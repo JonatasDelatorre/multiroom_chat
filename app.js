@@ -41,6 +41,7 @@ io.on('connection', function(socket){
             {apelido: data.apelido}
         );
 
-
+    /*teste do git de alteracao*/
+    
     });
 });
